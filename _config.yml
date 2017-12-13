@@ -45,8 +45,8 @@ menuList:
     href: faq
 
 coinName: Bitcoin Smart empower everyone
-lead: Bitcoin Smart, a Bitcoin that bring you more.With integration of smart-contract system,  new features such as token issuance will be available and onchain performance will no longer be a issue.
-bscDescription: Bitcoin Smart, a Bitcoin that bring you more.With integration of smart-contract system,  new features such as token issuance will be available and onchain performance will no longer be a issue.
+lead: Bitcoin Smart, a Bitcoin that bring you more.With integration of smart-contract system,  new features such as token issuance will be available and on-chain performance will no longer be a issue.
+bscDescription: Bitcoin Smart, a Bitcoin that bring you more.With integration of smart-contract system,  new features such as token issuance will be available and on-chain performance will no longer be a issue.
 
 features:
   - title: Digital Asset Issuance
@@ -56,9 +56,9 @@ features:
     descrip: support DAPP development
     image: resource/smartContract.jpg
   - title: Token Fluidity
-    descrip: all issued token will be automaticly listed on decentlized exchange.
+    descrip: all issued token will be automatically listed on decentralized exchange.
     image: resource/tokenFluidity.jpg
-  - title: Transation Efficiency
+  - title: Transaction Efficiency
     descrip: scalable, Instant Transactions.
     image: resource/transationEfficiency.jpg
 
