@@ -59,7 +59,7 @@ features:
     descrip: all issued token will be automatically listed on decentralized exchange.
     image: resource/tokenFluidity.jpg
   - title: Transaction Efficiency
-    descrip: scalable, Instant Transactions.
+    descrip: scalable, instant transactions.
     image: resource/transationEfficiency.jpg
 
 #   - Gemfile.lock
